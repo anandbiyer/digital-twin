@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "Hi There",
+    "timestamp": "2026-01-12T21:46:56.001867"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! Welcome to my site. I\u2019m Andy \u2014 Anand Iyer. How can I assist you today? Are you interested in learning more about my experience in risk management, consulting, or perhaps how I approach technology-driven transformations in financial services?",
+    "timestamp": "2026-01-12T21:46:56.001867"
+  },
+  {
+    "role": "user",
+    "content": "My name is Alex",
+    "timestamp": "2026-01-12T21:47:11.797156"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Alex! What brings you here today? Are you exploring risk management strategies, consulting services, or maybe just curious about my professional journey?",
+    "timestamp": "2026-01-12T21:47:11.797156"
+  }
+]
